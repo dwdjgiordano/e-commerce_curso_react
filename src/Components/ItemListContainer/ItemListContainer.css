@@ -1,0 +1,7 @@
+.itemList{
+    position: fixed;
+    top:250px;
+    width: 40%;
+    background: cyan;
+    align-items: center;
+}

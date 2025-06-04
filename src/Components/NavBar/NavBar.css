@@ -1,0 +1,35 @@
+.header{
+    position: fixed;
+    top:0;
+    width: 80%;
+    padding: 20px 5%;
+    background: seagreen;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+.logo{
+    font-size: 32px;
+    color:blue;
+    font-weight: 700;
+}
+
+.navbar a{
+    position: relative;
+    font-size: 18px;
+    color:coral;
+    font-weight:500;
+    margin-left: 40px;
+}
+
+.carrito_compras{
+    height: 50px;
+    width: 50px;
+}
+
+.logo_empresa{
+    height: 50px;
+    width: 50px;
+}
