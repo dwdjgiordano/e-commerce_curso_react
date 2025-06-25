@@ -1,7 +1,9 @@
 .itemList{
-    position: fixed;
-    top:250px;
+    position: relative;
+    padding: 10px 50px 20px;
+    margin-top: auto;
     width: 40%;
-    background: red;
+    background: silver;
     align-items: center;
+    font-size: medium;
 }
